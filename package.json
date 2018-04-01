@@ -34,6 +34,7 @@
     "zone.js": "^0.8.20"
   },
   "devDependencies": {
+    "@angular-devkit/build-optimizer": "0.4.8",
     "@angular-devkit/build-optimizer": "0.4.6",
     "@angular-devkit/core": "0.4.7",
     "@angular-devkit/build-optimizer": "0.4.7",
