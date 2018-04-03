@@ -34,11 +34,11 @@
     "zone.js": "^0.8.20"
   },
   "devDependencies": {
-    "@angular-devkit/build-optimizer": "0.4.8",
-    "@angular-devkit/build-optimizer": "0.4.6",
+    "@angular-devkit/build-optimizer": "0.4.9",
+    "@angular-devkit/build-optimizer": "0.4.9",
     "@angular-devkit/core": "0.4.8",
     "@angular-devkit/core": "0.4.7",
-    "@angular-devkit/build-optimizer": "0.4.7",
+    "@angular-devkit/build-optimizer": "0.4.9",
     "@angular-devkit/core": "0.4.6",
     "@angular/cli": "1.7.3",
     "@angular/compiler-cli": "5.2.9",
