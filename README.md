@@ -6,7 +6,7 @@
 [![GitHub version](https://badge.fury.io/gh/Humadroid%2FAngular-Express-Quickstart.svg)](https://badge.fury.io/gh/Humadroid%2FAngular-Express-Quickstart)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Humadroid/Angular-Express-Quickstart)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Installation
 
