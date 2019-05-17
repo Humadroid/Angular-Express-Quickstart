@@ -25,7 +25,7 @@
     "body-parser": "^1.18.2",
     "bootstrap": "^4.0.0",
     "core-js": "^2.4.1",
-    "express": "^4.16.2",
+    "express": "^4.17.0",
     "faker": "^4.1.0",
     "jquery": "^3.3.1",
     "json-server": "^0.12.1",
